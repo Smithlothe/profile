@@ -1,0 +1,14 @@
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:18 test_searchEmp_005 is started
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:19 Opening Browser
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:21 Going to Url--> https://opensource-demo.orangehrmlive.com/
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:24 Enter UserName --> Admin
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:26 Enter Password --> admin123
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:28 Click on logIn
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:31 Click on PIM tab
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:34 Enter EmpName for Search --> Justin
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:36 Click on Search Button
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:39 Search Found
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:40 test_SearchEmp_005 is Passed
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:42 Click on Menu Button
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:44 Click on LogOut
+[32mINFO    [0m Test_Emp_Search:test_empsearch.py:51 test_SearchEmp_005 is Completed

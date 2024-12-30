@@ -1,0 +1,15 @@
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:17 test_login_ddt_006 is started...
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:18 Openning Browser
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:20 get to this Url --> https://opensource-demo.orangehrmlive.com/
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:28 Entering Username --> Admin
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:30 Entering Password --> admin123
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:36 Clicking on menu button
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:38 Click on Logout Button
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:28 Entering Username --> Admin1
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:30 Entering Password --> admin123
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:28 Entering Username --> Admin
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:30 Entering Password --> admin1231
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:28 Entering Username --> Admin1
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:30 Entering Password --> admin1231
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:47 test_login_ddt_006 is Passed
+[32mINFO    [0m Test_Login_DDT:test_Login_ddt.py:54 test_login_ddt_006 is completed

@@ -1,0 +1,25 @@
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:22 test_addEmp_ddt_007 is Started
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:23 Browser is openning
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:25 Go to Url--> https://opensource-demo.orangehrmlive.com/
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:28 Entering Username Admin
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:30 Entering Password admin123
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:32 Click on Login Button
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:35 CLick on PIM
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:38 Click on Add Employee Button
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:45 Entering FirstName -->A
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:47 Entering middlename -->G
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:49 Entering Lastname -->Patil
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:51 Click Save Button
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:54 Clik Add EMp Button
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:45 Entering FirstName -->B
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:47 Entering middlename -->G
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:49 Entering Lastname -->B
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:51 Click Save Button
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:54 Clik Add EMp Button
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:45 Entering FirstName -->C
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:47 Entering middlename -->Test
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:49 Entering Lastname -->Test
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:51 Click Save Button
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:45 Entering FirstName -->D
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:47 Entering middlename -->H
+[32mINFO    [0m Test_addEmp_DDT:test_addemp_ddt.py:49 Entering Lastname -->Test

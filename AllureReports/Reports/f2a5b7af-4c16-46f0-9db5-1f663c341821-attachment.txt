@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_Login:test_Login.py:17 test_Page_Title_001 is started
+[32mINFO    [0m Test_Login:test_Login.py:18 Openning Browser
+[32mINFO    [0m Test_Login:test_Login.py:20 Go to this Url-->https://opensource-demo.orangehrmlive.com/
+[32mINFO    [0m Test_Login:test_Login.py:23 test_Page_Title_001 is Passed
+[32mINFO    [0m Test_Login:test_Login.py:24 Page Title isOrangeHRM
+[32mINFO    [0m Test_Login:test_Login.py:30 test_Page_Title_001 is Completed

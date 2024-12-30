@@ -1,0 +1,16 @@
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:17 test_addEmp_003 is started
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:18 Opening Browser
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:20 Going to Url--> https://opensource-demo.orangehrmlive.com/
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:23 Enter UserName --> Admin
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:25 Enter Password --> admin123
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:27 Click on logIn
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:30 Click on PIM tab
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:32 Click on Add Employee Button
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:34 Enter Firstname --> Justin
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:36 Enter Middlename --> drake
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:38 Enter LastName --> Beiber
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:40 Click on Save
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:44 Click on Menu Button
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:46 Click on LogOut
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:48 test_addEmp_003 is passed
+[32mINFO    [0m Test_Add_Emp:test_addemp.py:55 test_addEmp_003 is completed

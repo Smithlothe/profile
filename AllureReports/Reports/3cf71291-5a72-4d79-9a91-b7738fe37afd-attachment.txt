@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_Login:test_Login.py:35 test_login_002 is Started
+[32mINFO    [0m Test_Login:test_Login.py:36 Openning Browser
+[32mINFO    [0m Test_Login:test_Login.py:38 Go to this Url--> https://opensource-demo.orangehrmlive.com/
+[32mINFO    [0m Test_Login:test_Login.py:41 Entering UserName--> Admin
+[32mINFO    [0m Test_Login:test_Login.py:43 Entering Password--> admin123
+[32mINFO    [0m Test_Login:test_Login.py:45 Click Login Button
+[32mINFO    [0m Test_Login:test_Login.py:49 Click Menu Button
+[32mINFO    [0m Test_Login:test_Login.py:51 Click Logout Button
+[32mINFO    [0m Test_Login:test_Login.py:52 test_login_002 is passed
+[32mINFO    [0m Test_Login:test_Login.py:59 test_login_002 is completed

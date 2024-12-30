@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_Login_Params:test_login_param.py:18 test_login_params_004 is started
+[32mINFO    [0m Test_Login_Params:test_login_param.py:19 Opening Browser
+[32mINFO    [0m Test_Login_Params:test_login_param.py:21 Go to this url-->https://opensource-demo.orangehrmlive.com/
+[32mINFO    [0m Test_Login_Params:test_login_param.py:23 0 --> Admin
+[32mINFO    [0m Test_Login_Params:test_login_param.py:24 1 --> admin1231
+[32mINFO    [0m Test_Login_Params:test_login_param.py:25 2 --> Fail
+[32mINFO    [0m Test_Login_Params:test_login_param.py:27 Entering username-->Admin
+[32mINFO    [0m Test_Login_Params:test_login_param.py:29 Entering password-->admin1231
+[32mINFO    [0m Test_Login_Params:test_login_param.py:31 Click on login button
+[32mINFO    [0m Test_Login_Params:test_login_param.py:57 test_login_002 is Completed
